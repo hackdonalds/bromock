@@ -1,0 +1,8 @@
+{
+  "name": "@hackdonalds/bromock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hackdonalds/bromock.git",
+  "author": "hsahin <htolgasahin@gmail.com>",
+  "license": "MIT"
+}
